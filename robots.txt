@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://hobbygameshelf.com/sitemap.xml
+Host: hobbygameshelf.com
